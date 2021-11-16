@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Health and Medicine"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b21290e6-2d0d-7812-3529-891e9a0c93e1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Science Writing and New Media: Perspectives on Medicine and Public Health",
+  "course_description": "Along with writing for their peers, physicians must also communicate their knowledge to \"everyday\" people. Assignments in this course will challenge students to consider the distinctive needs of different audiences. Image courtesy of Nic McPhee on flickr. Used with permission.\n",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.034",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
